@@ -1,0 +1,33 @@
+.bg-secondary {
+    background-color: #D0D0D0 !important;
+}
+
+.copyright {
+    background-color: #47484C;
+}
+
+.bg-primary {
+    background-color: #EAC6D0 !important;
+}
+
+nav {
+    font-weight: 700;
+}
+
+.img-card {
+    height: 18vw;
+    object-fit: contain;
+    background-color: white;
+    padding: 10px;
+}
+
+/* Tombol hijau ganti ke pink */
+.btn.bg-primary {
+    background-color: #EAC6D0 !important;
+    color: #47484C !important;
+    border: none;
+}
+
+.btn.bg-primary:hover {
+    background-color: #d4a8b8 !important;
+}

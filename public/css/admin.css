@@ -1,0 +1,65 @@
+.copyright {
+    background-color: #47484C;
+}
+
+.fixed {
+    -ms-flex: 0 0 250px;
+    flex: 0 0 250px;
+}
+
+.content-grey {
+    background-color: #f8f9fc;
+}
+
+hr {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+.img-profile {
+    height: 2rem;
+    width: 2rem;
+    object-fit: cover;
+}
+
+.profile-font {
+    color: #858796 !important;
+    font-size: 80%;
+    font-weight: 400;
+}
+
+.card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+.bg-dark {
+    background-color: #47484C !important;
+}
+
+/* Teks sidebar putih agar terbaca */
+.bg-dark a, .bg-dark span, .bg-dark li {
+    color: #ffffff !important;
+}
+
+/* Tombol primary */
+.btn-primary, .btn.bg-primary {
+    background-color: #EAC6D0 !important;
+    border-color: #EAC6D0 !important;
+    color: #47484C !important;
+}
+
+.btn-primary:hover, .btn.bg-primary:hover {
+    background-color: #d4a8b8 !important;
+    border-color: #d4a8b8 !important;
+}
+
+/* Tombol warning (Edit) */
+.btn-warning {
+    background-color: #f0c040 !important;
+}
+
+/* Tombol danger (Delete) */
+.btn-danger {
+    background-color: #e74c3c !important;
+}
