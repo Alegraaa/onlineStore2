@@ -30,7 +30,7 @@
         <div class="col content-grey">
             <nav class="p-3 shadow text-end">
                 <span class="profile-font">Admin</span>
-                <img class="img-profile rounded-circle" src="{{ asset('/img/admin.png') }}">
+                <img class="img-profile rounded-circle" src="{{ asset('/img/undraw_profile.svg') }}">
             </nav>
 
             <div class="g-0 m-5">
@@ -40,13 +40,12 @@
 
     </div>
 
-    <!-- footer -->
-    <div class="copyright py-4 text-center text-white">
-        <div class="container">
-            <small>Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank" href="https://twitter.com/danielgarax">Nur Ira Lestari</a></small>
-        </div>
+<!-- footer -->
+<div class="copyright py-4 text-center text-white">
+    <div class="container">
+        <small>Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank" href="https://twitter.com/danielgarax">Daniel Correa</a></small>
     </div>
-    <!-- footer -->
+</div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 </body>

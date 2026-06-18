@@ -5,14 +5,11 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-6 col-lg-6">
-            <h2>About the store</h2>
-            <p>{{ $viewData["description"] }}</p>
+        <div class="col-lg-4 ms-auto">
+            <p class="lead">{{ $viewData["description"] }}</p>
         </div>
-        <div class="col-md-6 col-lg-6">
-            <h2>About the developer</h2>
-            <p>Name: Nur Ira Lestari</p>
-            <p>Email: nurira8384@gmail.com</p>
+        <div class="col-lg-4 me-auto">
+            <p class="lead">{{ $viewData["author"] }}</p>
         </div>
     </div>
 </div>

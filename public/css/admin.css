@@ -1,5 +1,5 @@
 .copyright {
-    background-color: #47484C;
+    background-color: #1a252f;
 }
 
 .fixed {
@@ -31,35 +31,4 @@ hr {
 .card-header {
     background-color: #f8f9fc;
     border-bottom: 1px solid #e3e6f0;
-}
-
-.bg-dark {
-    background-color: #47484C !important;
-}
-
-/* Teks sidebar putih agar terbaca */
-.bg-dark a, .bg-dark span, .bg-dark li {
-    color: #ffffff !important;
-}
-
-/* Tombol primary */
-.btn-primary, .btn.bg-primary {
-    background-color: #EAC6D0 !important;
-    border-color: #EAC6D0 !important;
-    color: #47484C !important;
-}
-
-.btn-primary:hover, .btn.bg-primary:hover {
-    background-color: #d4a8b8 !important;
-    border-color: #d4a8b8 !important;
-}
-
-/* Tombol warning (Edit) */
-.btn-warning {
-    background-color: #f0c040 !important;
-}
-
-/* Tombol danger (Delete) */
-.btn-danger {
-    background-color: #e74c3c !important;
 }
